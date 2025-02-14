@@ -1,4 +1,4 @@
-Class,Age,Sex_Category,SurvivalStatus
+Class,Age,Sex_Category,SurvivalStatus_New
 1st,"Quantity[29., ""Years""]",female,survived
 1st,"Quantity[0.9167, ""Years""]",male,survived
 1st,"Quantity[2., ""Years""]",female,died
